@@ -1,11 +1,5 @@
 # Life-Expectancy-GDP
 
-[GDP_Over_Time.png]
-
-![Life_Expectancy_Over_Time](https://github.com/Nabid96/Life-Expectancy-GDP/assets/161248700/9d3bfdcc-f051-436f-8061-7f7629b5bc23)
-
-## Title: Unlocking Insights: Exploring the Relationship Between GDP and Life Expectancy
-
 ### Introduction:
 
 In our quest to understand the intricate dynamics between economic prosperity and public health, we embarked on a data exploration journey, delving into a rich dataset encompassing Gross Domestic Product (GDP) and life expectancy data for six nations over several years. Our objective was to uncover trends, correlations, and insights that shed light on the nexus between economic development and population health.
@@ -23,6 +17,10 @@ Facet Grid of Scatter Graphs: In this visualization, we present a series of scat
 Facet Grid of Line Graphs - GDP by Country: This facet grid showcases the trajectory of GDP over time for each of the six nations. By charting the economic growth patterns, we discern the pace and magnitude of development across different countries, uncovering disparities and identifying key inflection points that may influence population health outcomes.
 
 Facet Grid of Line Graphs - Life Expectancy by Country: Finally, we explore the evolution of life expectancy over time through a series of line graphs for each nation. By tracing the trends in life expectancy, we discern the impact of socioeconomic factors, healthcare interventions, and policy initiatives on population health outcomes, offering valuable insights for public health practitioners and policymakers alike.
+
+![Life_Expectancy_Over_Time](https://github.com/Nabid96/Life-Expectancy-GDP/assets/161248700/9d3bfdcc-f051-436f-8061-7f7629b5bc23)
+
+
 
 ### Conclusion:
 
