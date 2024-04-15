@@ -2,6 +2,8 @@
 
 [GDP_Over_Time.png]
 
+![Life_Expectancy_Over_Time](https://github.com/Nabid96/Life-Expectancy-GDP/assets/161248700/9d3bfdcc-f051-436f-8061-7f7629b5bc23)
+
 ## Title: Unlocking Insights: Exploring the Relationship Between GDP and Life Expectancy
 
 ### Introduction:
