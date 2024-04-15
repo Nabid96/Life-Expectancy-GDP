@@ -1,6 +1,6 @@
 # Life-Expectancy-GDP
 
-GDP_Over_Time.png
+(GDP_Over_Time.png)
 
 ## Title: Unlocking Insights: Exploring the Relationship Between GDP and Life Expectancy
 
