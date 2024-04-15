@@ -19,7 +19,9 @@ Facet Grid of Line Graphs - GDP by Country: This facet grid showcases the trajec
 Facet Grid of Line Graphs - Life Expectancy by Country: Finally, we explore the evolution of life expectancy over time through a series of line graphs for each nation. By tracing the trends in life expectancy, we discern the impact of socioeconomic factors, healthcare interventions, and policy initiatives on population health outcomes, offering valuable insights for public health practitioners and policymakers alike.
 
 ![Life_Expectancy_Over_Time](https://github.com/Nabid96/Life-Expectancy-GDP/assets/161248700/9d3bfdcc-f051-436f-8061-7f7629b5bc23)
-
+![GDP_Over_Time](https://github.com/Nabid96/Life-Expectancy-GDP/assets/161248700/61b49bf6-2cf1-48f9-8a2e-836181c99e72)
+![Distribution_of_Life_Expectancy](https://github.com/Nabid96/Life-Expectancy-GDP/assets/161248700/f1e3250c-10fe-4f04-9261-b57bfd88c86a)
+![Correlation_between_GDP_and_Life_Expectancy](https://github.com/Nabid96/Life-Expectancy-GDP/assets/161248700/c6e5334d-8b3b-424b-a3e6-a5c23d97b649)
 
 
 ### Conclusion:
